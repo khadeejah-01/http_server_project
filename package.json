@@ -1,0 +1,23 @@
+{
+  "name": "http_server_project",
+  "version": "1.0.0",
+  "description": "Basic HTTP server project of NodeJS built using the http module, and used fs module for file read/write.",
+  "homepage": "https://github.com/khadeejah-01/http_server_project#readme",
+  "bugs": {
+    "url": "https://github.com/khadeejah-01/http_server_project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khadeejah-01/http_server_project.git"
+  },
+  "license": "ISC",
+  "author": "Khadeejah Yasin",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "url": "^0.11.4"
+  }
+}
